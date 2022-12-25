@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "name": "مؤسسة خالد للسياحة متعددة الأنشطة",
+        "record_type": "سجل رئيسي",
+        "record_condition": "سجل قائم",
+        "company_type": "مؤسسة",
+        "expiry_date": "22/12/2012",
+        "unified_number": "70021021",
+        "record_number": "10232102"
+    },
+    {
+        "id": "1",
+        "name": "مؤسسة سعد للسياحة فردي",
+        "record_type": "سجل رئيسي",
+        "record_condition": "سجل قائم",
+        "company_type": "مؤسسة",
+        "expiry_date": "22/12/2012",
+        "unified_number": "70021021",
+        "record_number": "10232102"
+    },
+    {
+        "id": "2",
+        "name": "مؤسسة قاسم للسياحة ثنائية ",
+        "record_type": "سجل فرعي",
+        "record_condition": "سجل مشطوب",
+        "company_type": "مؤسسة",
+        "expiry_date": "22/12/2012",
+        "unified_number": "70021021",
+        "record_number": "10232102"
+    }
+]

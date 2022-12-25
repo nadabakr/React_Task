@@ -1,0 +1,42 @@
+[
+    {
+        "name": "الشركة السعودية للكهرباء",
+        "mony_deserved": "734255 ريال",
+        "total_number": "121"
+    },
+    {
+        "name": "شركة الاتصالات السعودية",
+        "mony_deserved": "3204 ريال",
+        "total_number": "5"
+    },
+    {
+        "name": "شركة المياة الوطنية",
+        "mony_deserved": "11232 ريال",
+        "total_number": "7"
+    },
+    {
+        "name": "المنصة الوطنية للمخالفت",
+        "mony_deserved": "2321 ريال",
+        "total_number": "9"
+    },
+    {
+        "name": "هيئة قوائم",
+        "mony_deserved": "12",
+        "total_number": "12"
+    },
+    {
+        "name": "هيئة الاتصالات",
+        "mony_deserved": "8 ريال",
+        "total_number": "8"
+    },
+    {
+        "name": "التأمينات الاجتماعية",
+        "mony_deserved": "23 ريال",
+        "total_number": "23"
+    },
+    {
+        "name": "حياة الزكاة والضريبة والجمارك",
+        "mony_deserved": "121 ريال",
+        "total_number": "121"
+    }
+]
